@@ -44,7 +44,7 @@ func hide(key string) string {
 	writeToFile(ciphertext, "encryptedData.txt")
 
 	//Zip encrypted data
-	zipit("W:\\Mimic\\encryptedData.txt", "encryptedData.zip")
+	zipit("encryptedData.txt", "encryptedData.zip")
 
 	//Absolute path to hide.cmd
 	path, _ := filepath.Abs("hide.cmd")
