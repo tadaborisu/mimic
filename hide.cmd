@@ -1,0 +1,1 @@
+copy /b image.png+encryptedData.zip normal.png
