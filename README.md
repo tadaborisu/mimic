@@ -1,2 +1,2 @@
 # Mimic
-Multilevel file encrypting and hiding it in another file
+Encrypt file and hide it in the image
